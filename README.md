@@ -6,13 +6,16 @@ This is the companion repository for a crash course in data science.
 ### Requirements
 - Python 3.7
 
-### Installing a VENV
+### Installing a venv
 
-### Activating VENV
+### Activating venv
+In your working directory: `source dscc//bin/activate`  
+
+### Installing required libraries
+After activating your python virtual environment: `pip install -r /path/to/requirements.txt`  
 
 ### Creating requirements for install  
 requirement.txt generated using: `pip freeze > requirements.txt`
-
 
 ## Hydrogen
 There are two versions of the notebook files. The iPython notebooks (.ipynb) and
