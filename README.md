@@ -17,4 +17,5 @@ https://nteract.gitbooks.io/hydrogen/docs/Installation.html
 requirement.txt generated using: `pip freeze > requirements.txt`
 
 ## Contact
-Feel free to submit issues or make pull requests at https://github.com/ewhitling/datascience-cc
+Feel free to submit issues or make pull requests at
+https://github.com/ewhitling/datascience-cc
